@@ -1,10 +1,10 @@
 #include <stdio.h>
 
-typedef struct Song
+struct Song
 {
 	char title[20];
 	int duration;
-} Song;
+};
 
 void print_song(struct Song s)
 {

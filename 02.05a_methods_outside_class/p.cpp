@@ -19,6 +19,13 @@ public:
 
 // provide definition of class Song method enter()
 
+
+
+
+
+
+
+
 int main()
 {
 	Song s;

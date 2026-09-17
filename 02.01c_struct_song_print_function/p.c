@@ -8,7 +8,7 @@ struct Song
 
 void print_song(struct Song s)
 {
-	printf("%s (%02d:%02d)\n", s.title, s.duration / 60, s.duration % 60);
+
 }
 
 int main()
